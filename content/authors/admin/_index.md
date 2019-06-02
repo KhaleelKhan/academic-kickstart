@@ -23,7 +23,8 @@ bio: Seeking opportunities in field of electronics with focus on hands-on produc
 interests:
 - Analog / Mixed Signal Design
 - Embedded Hardware / Software Design
-- Python
+- Python, C
+- Electronic Design and Prototyping
 
 education:
   courses:
@@ -71,3 +72,5 @@ user_groups:
 ---
 
 I am a Masters student recently graduated in ”Information and Communication Engineering” course at TU Darmstadt,Germany. I have a final grade of 1.78 in my Masters with a Thesis focusing on Analog CMOS design. Since I have finished my degree, I am currently looking for new opportunities and am available immediately. I have a varied hardware/ software development experience, I enjoy coding and solving difficult challenges.
+
+You can download pdf versions of my CV from the Downloads bar on the top Menu. For questions or feedback, feel free to contact me using [Contacts](#contact) page (Email preferred).
