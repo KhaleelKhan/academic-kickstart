@@ -57,18 +57,18 @@ social:
   link: https://www.linkedin.com/in/khaleel-khan/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: "files/CV_Khan_Nazeer_overview.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a Masters student recently graduated in ”Information and Communication Engineering” course at TU Darmstadt,Germany. I have a final grade of 1.78 in my Masters with a Thesis focusing on Analog CMOS design. Since I have finished my degree, I am currently looking for new opportunities and am available immediately. I have a varied hardware/ software development experience, I enjoy coding and solving difficult challenges.

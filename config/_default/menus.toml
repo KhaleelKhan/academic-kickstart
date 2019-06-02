@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Competencies"
-  url = "#skills"
+  url = "#competencies"
   weight = 30
 
 [[main]]
