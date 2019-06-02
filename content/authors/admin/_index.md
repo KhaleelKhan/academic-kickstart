@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: M.Sc in Information and Communication Engineering,
+  - course: M.Sc in Information and Communication Engineering
     institution: Technische Universität Darmstadt, Germany
-    year: 2018
+    year: 2016 - 2018
   - course: BE in Electronics and Communication Engineering
     institution: Visvesvaraya Technological University, India
-    year: 2013
-
+    year: 2009 - 2013
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -73,4 +73,4 @@ user_groups:
 
 I am a Masters student recently graduated in ”Information and Communication Engineering” course at TU Darmstadt,Germany. I have a final grade of 1.78 in my Masters with a Thesis focusing on Analog CMOS design. Since I have finished my degree, I am currently looking for new opportunities and am available immediately. I have a varied hardware/ software development experience, I enjoy coding and solving difficult challenges.
 
-You can download pdf versions of my CV from the Downloads bar on the top Menu. For questions or feedback, feel free to contact me using [Contacts](#contact) page (Email preferred).
+You can download pdf versions of my CV from the Downloads bar on the top Menu. For questions or feedback, feel free to contact me using [Contacts](#contact) page (Linkedin preferred).

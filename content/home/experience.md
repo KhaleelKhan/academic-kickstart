@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_start = "2014-05-02"
   date_end = "2016-09-26"
   description = """
-  Worked as a contractor for Texas Instruments, India
+  Worked as a contractor from Tessolve Semiconductors, India
 
   * Specialize in Bench Characterization / Evaluation
   * Test and Characterization of High speed analog devices (ADC)
