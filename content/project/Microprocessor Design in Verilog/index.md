@@ -49,14 +49,14 @@ Project Summary
 Major milestones defined as per the project have been completed.
 Following table gives a short summary of our design and goals achieved.
 
-  **Feature**            **Value/Result**
-  ---------------------- ------------------
-  Number of Stages       5
-  Synthesizable          Yes
-  Max Frequency          2.857 GHz
-  Power                  2.0583 mW
-  Can process count32    Yes
-  Can process memcpy46   Yes
+  **Feature**           | **Value/Result**
+  ----------------------| ------------------
+  Number of Stages      | 5
+  Synthesizable         | Yes
+  Max Frequency         | 2.857 GHz
+  Power                 | 2.0583 mW
+  Can process count32   | Yes
+  Can process memcpy46  | Yes
 
 
 Implementation
@@ -67,7 +67,7 @@ Design
 
 For the simulation of CPU program, the given data files which contains
 the instructions were read into the instruction register of the CPU.The
-processor designed is a 5 stage pipeline design . The stages are
+processor designed is a 5 stage pipeline design. The stages are
 Instruction Fetch, Instruction decode,Execute,Memory Access and Write
 back.
 
@@ -341,7 +341,7 @@ path.
   Comparison of Pipelined and Unpipelined
 
 Following Timing report is obtained for a Clock period of 0.35 nS.
-"$$\therefore  Max\_Frequency = \frac{1}{0.35 nS} = 2.86 GHz" .
+$$\therefore  Max\_{frequency} = \frac{1}{0.35 nS} = 2.86 GHz$$ .
 
 Conclusion
 ==========

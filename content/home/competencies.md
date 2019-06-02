@@ -58,6 +58,17 @@ Programming Languages:
 
 ***
 
+Tools:
+------
+
+* Cadence Virtuoso , Modelsim
+* Git, Vim
+* Eclipse CDT, Qt Designer, PyQt
+* MATLAB, Octave
+* LabVIEW, KiCAD
+
+***
+
 Hardware Skills:
 ----------------
 
